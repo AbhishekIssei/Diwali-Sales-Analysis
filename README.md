@@ -99,8 +99,8 @@ A synthetic dataset simulating Diwali season sales with the following columns:
 ## 📬 Contact
 
 **Abhishek Kotian**  
-[LinkedIn](https://linkedin.com/in/abhishek-k-191368208) | [GitHub](https://github.com/AbhishekIssei)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-k-191368208)  
+🌐 [Portfolio Website](https://abhishekkotianportfolio.netlify.app/)
 ---
 
 ## 📌 License
